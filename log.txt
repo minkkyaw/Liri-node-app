@@ -1,339 +1,183 @@
 -------------------------------- 
-    Movie Title: Mr. Nobody
-    Year of Release:2009
-    IMDB Rating: 7.8
-    Rotten Tomatoes Rating : 67%
-    Country Produced: Belgium, Germany, Canada, France, USA, UK
-    Language: English, Mohawk
-    Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-    Actors/Actresses: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+        Venue Name: Tusndårsskoven
+        Venue Location: Odense
+        Date of the Event: 07-27-2019
 -------------------------------- 
-    Movie Title: Mr. Nobody
-    Year of Release:2009
-    IMDB Rating: 7.8
-    Rotten Tomatoes Rating : 67%
-    Country Produced: Belgium, Germany, Canada, France, USA, UK
-    Language: English, Mohawk
-    Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-    Actors/Actresses: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+        Venue Name: Tusndårsskoven Odense V
+        Venue Location: Odense
+        Date of the Event: 07-28-2019
 -------------------------------- 
-    Movie Title: Mr. Nobody
-    Year of Release:2009
-    IMDB Rating: 7.8
-    Rotten Tomatoes Rating : 67%
-    Country Produced: Belgium, Germany, Canada, France, USA, UK
-    Language: English, Mohawk
-    Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-    Actors/Actresses: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+        Venue Name: Messegelände
+        Venue Location: Hannover
+        Date of the Event: 08-02-2019
 -------------------------------- 
-        Song's name : I Want It That Way
-        album's name : The Hits--Chapter One
-        Artists : Backstreet Boys
-        Preview Url : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+        Venue Name: Messegelände
+        Venue Location: Hannover
+        Date of the Event: 08-03-2019
 -------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Millennium
-        Artists : Backstreet Boys
-        Preview Url : https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+        Venue Name: Way Out West 2019
+        Venue Location: Gothenburg
+        Date of the Event: 08-08-2019
 -------------------------------- 
-        Song's name : I Want It That Way
-        album's name : I Want It That Way
-        Artists : Mick Jensen
-        Preview Url : https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+        Venue Name: Laugardalsvöllur
+        Venue Location: Reykjavik
+        Date of the Event: 08-10-2019
 -------------------------------- 
-        Song's name : I Want It That Way - Reimagined
-        album's name : I Want It That Way (Reimagined)
-        Artists : Backstreet Boys
-        Preview Url : https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+        Venue Name: Laugardalsvöllur
+        Venue Location: Reykjavik
+        Date of the Event: 08-11-2019
 -------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Covers Part IV
-        Artists : Anthem Lights
-        Preview Url : https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+        Venue Name: Stavanger Konserthus
+        Venue Location: Stavanger
+        Date of the Event: 08-23-2019
 -------------------------------- 
-        Song's name : Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
-        album's name : Poodle Hat
-        Artists : "Weird Al" Yankovic
-        Preview Url : https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+        Venue Name: Stavangeren
+        Venue Location: Stavanger
+        Date of the Event: 08-24-2019
 -------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Under the Covers, Vol. 3
-        Artists : Jess and Gabriel
-        Preview Url : https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+        Venue Name: Kristiansten Festning
+        Venue Location: Trondheim
+        Date of the Event: 08-30-2019
 -------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Beautiful Dreams
-        Artists : Tyler and Mark
-        Preview Url : https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+        Venue Name: Neptune Theatre
+        Venue Location: Seattle
+        Date of the Event: 09-17-2019
 -------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Punk Goes Pop
-        Artists : Dynamite Boy
+        Venue Name: Wonder Ballroom
+        Venue Location: Portland
+        Date of the Event: 09-18-2019
+-------------------------------- 
+        Venue Name: The Depot
+        Venue Location: Salt Lake City
+        Date of the Event: 09-20-2019
+-------------------------------- 
+        Venue Name: Las Vegas Festival Grounds
+        Venue Location: Las Vegas
+        Date of the Event: 09-21-2019
+-------------------------------- 
+        Venue Name: Gothic Theatre
+        Venue Location: Englewood
+        Date of the Event: 09-24-2019
+-------------------------------- 
+        Venue Name: House of Blues Dallas
+        Venue Location: Dallas
+        Date of the Event: 09-26-2019
+-------------------------------- 
+        Venue Name: White Oak Music Hall
+        Venue Location: Houston
+        Date of the Event: 09-28-2019
+-------------------------------- 
+        Venue Name: The Ritz Ybor
+        Venue Location: Tampa
+        Date of the Event: 09-30-2019
+-------------------------------- 
+        Venue Name: House of Blues Orlando
+        Venue Location: Lake Buena Vista
+        Date of the Event: 10-01-2019
+-------------------------------- 
+        Venue Name: Buckhead Theatre
+        Venue Location: Atlanta
+        Date of the Event: 10-03-2019
+-------------------------------- 
+        Song's name : Havana (feat. Young Thug)
+        album's name : Camila
+        Artists : Camila Cabello, Young Thug
+        Preview Url : https://p.scdn.co/mp3-preview/663b794c2fc8da8f9bbe33698cb1bac567126a23?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana - Remix
+        album's name : Havana (Remix)
+        Artists : Camila Cabello, Daddy Yankee
+        Preview Url : https://p.scdn.co/mp3-preview/d74caa3e33e24d2ae69a817d9c952038385c1e46?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana
+        album's name : KIDZ BOP 37
+        Artists : Kidz Bop Kids
         Preview Url : null
 -------------------------------- 
-        Song's name : I Want It That Way
-        album's name : NKOTBSB
-        Artists : Backstreet Boys
-        Preview Url : https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+        Song's name : Havana
+        album's name : Femme fatale
+        Artists : Mary Lou Stephens
+        Preview Url : https://p.scdn.co/mp3-preview/02b72b11fe0d90ead6e04be4c66eba9a4bb2ddc2?cid=dcdc7ba7d22f4208bb386cd94eb3a820
 -------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Cover Sessions, Vol. 2
-        Artists : Boyce Avenue
-        Preview Url : https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+        Song's name : Havana
+        album's name : PTX Presents: Top Pop, Vol. I
+        Artists : Pentatonix
+        Preview Url : https://p.scdn.co/mp3-preview/c80726f8b40418feb5bca6aee452c04de23c1121?cid=dcdc7ba7d22f4208bb386cd94eb3a820
 -------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Nu Funk
-        Artists : Scary Pockets, Casey Abrams
-        Preview Url : https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : I Want It That Way
-        Artists : Manuel Costa
-        Preview Url : https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Selfies on Kodachrome
-        Artists : Scott Bradlee's Postmodern Jukebox, Shoshana Bean
-        Preview Url : https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
-        album's name : The Essential "Weird Al" Yankovic
-        Artists : "Weird Al" Yankovic
-        Preview Url : https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : I Want It That Way
-        Artists : Yshop
-        Preview Url : https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Timeless Love
-        Artists : Love Hits On Piano
-        Preview Url : https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : I Want It That Way
-        Artists : Steel Panther
+        Song's name : Havana Daydreamin'
+        album's name : Havana Daydreamin'
+        Artists : Jimmy Buffett
         Preview Url : null
 -------------------------------- 
-        Song's name : I Want It That Way
-        album's name : 90 Sweet 90s Hits!
-        Artists : Backstreet Boys
-        Preview Url : https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+        Song's name : Havana
+        album's name : Havana
+        Artists : Our Last Night
+        Preview Url : https://p.scdn.co/mp3-preview/779a8b560c0bc19d4d4e9d6a38350289b757ed56?cid=dcdc7ba7d22f4208bb386cd94eb3a820
 -------------------------------- 
-        Song's name : Bye Bye Bye / I Want It That Way (Glee Cast Version)
-        album's name : Bye Bye Bye / I Want It That Way (Glee Cast Version)
-        Artists : Glee Cast
-        Preview Url : https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-    Movie Title: Mr. Nobody
-    Year of Release:2009
-    IMDB Rating: 7.8
-    Rotten Tomatoes Rating : 67%
-    Country Produced: Belgium, Germany, Canada, France, USA, UK
-    Language: English, Mohawk
-    Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-    Actors/Actresses: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : The Hits--Chapter One
-        Artists : Backstreet Boys
-        Preview Url : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Millennium
-        Artists : Backstreet Boys
-        Preview Url : https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : I Want It That Way
-        Artists : Mick Jensen
-        Preview Url : https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Covers Part IV
-        Artists : Anthem Lights
-        Preview Url : https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way - Reimagined
-        album's name : I Want It That Way (Reimagined)
-        Artists : Backstreet Boys
-        Preview Url : https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
-        album's name : Poodle Hat
-        Artists : "Weird Al" Yankovic
-        Preview Url : https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Beautiful Dreams
-        Artists : Tyler and Mark
-        Preview Url : https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Under the Covers, Vol. 3
-        Artists : Jess and Gabriel
-        Preview Url : https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Punk Goes Pop
-        Artists : Dynamite Boy
+        Song's name : We Run The Night
+        album's name : We Run The Night
+        Artists : Havana Brown, Pitbull
         Preview Url : null
 -------------------------------- 
-        Song's name : I Want It That Way
-        album's name : 90 Sweet 90s Hits!
-        Artists : Backstreet Boys
-        Preview Url : https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+        Song's name : Havana
+        album's name : Spotty Box
+        Artists : Spotty Box
+        Preview Url : https://p.scdn.co/mp3-preview/1b0c97f23f3cd92a89eae17452d538affb06ef02?cid=dcdc7ba7d22f4208bb386cd94eb3a820
 -------------------------------- 
-        Song's name : I Want It That Way
-        album's name : I Want It That Way
-        Artists : Steel Panther
+        Song's name : Little Havana
+        album's name : From Me 2 U
+        Artists : Nebu Kiniza
+        Preview Url : https://p.scdn.co/mp3-preview/e77958e7670b3567341fb81240c7ddbb98083cac?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana - Live
+        album's name : Havana (Live)
+        Artists : Camila Cabello
+        Preview Url : https://p.scdn.co/mp3-preview/67099e2d84e803937526789d036e2ab68d443bbe?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana
+        album's name : Mini Pop Kids 15
+        Artists : Mini Pop Kids
+        Preview Url : https://p.scdn.co/mp3-preview/9a58d55a83836d6ed18b3a220be1f4fde3e060ec?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Piano Concerto No. 21 in C Major, K. 467: II. Andante
+        album's name : Mozart in Havana
+        Artists : Wolfgang Amadeus Mozart, Simone Dinnerstein, José Antonio Méndez Padrón
+        Preview Url : https://p.scdn.co/mp3-preview/beb55a4eb96ea5c3b256de9a4f0bbbc63d06d26a?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana (feat. Young Thug)
+        album's name : New Year's Eve - NYE 2018/2019
+        Artists : Camila Cabello, Young Thug
+        Preview Url : https://p.scdn.co/mp3-preview/1993f479b599d6221181d4d05bf0b5ce655bb7ba?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana
+        album's name : Soft Harp Hits
+        Artists : Lee Hackman
+        Preview Url : https://p.scdn.co/mp3-preview/1eaaccc87ee7abf198f765d72e127578f726d816?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana
+        album's name : Havana
+        Artists : Pentatonix
+        Preview Url : https://p.scdn.co/mp3-preview/f26af911295e6f7fe14abdf84f92520a1356a3e1?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana Affair - 2016 Remaster
+        album's name : Ramones - 40th Anniversary Deluxe Edition (Remastered)
+        Artists : Ramones
+        Preview Url : https://p.scdn.co/mp3-preview/115890e20c0ba7bb3baaec3af51eac5350fba130?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana
+        album's name : KIDZ BOP World Tour
+        Artists : Kidz Bop Kids
         Preview Url : null
 -------------------------------- 
-        Song's name : Bye Bye Bye / I Want It That Way (Glee Cast Version)
-        album's name : Bye Bye Bye / I Want It That Way (Glee Cast Version)
-        Artists : Glee Cast
-        Preview Url : https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : NKOTBSB
-        Artists : Backstreet Boys
-        Preview Url : https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Cover Sessions, Vol. 2
-        Artists : Boyce Avenue
-        Preview Url : https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Nu Funk
-        Artists : Scary Pockets, Casey Abrams
-        Preview Url : https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : I Want It That Way
-        Artists : Manuel Costa
-        Preview Url : https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Selfies on Kodachrome
-        Artists : Scott Bradlee's Postmodern Jukebox, Shoshana Bean
-        Preview Url : https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
-        album's name : The Essential "Weird Al" Yankovic
-        Artists : "Weird Al" Yankovic
-        Preview Url : https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : I Want It That Way
-        Artists : Yshop
-        Preview Url : https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Timeless Love
-        Artists : Love Hits On Piano
-        Preview Url : https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : The Hits--Chapter One
-        Artists : Backstreet Boys
-        Preview Url : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Millennium
-        Artists : Backstreet Boys
-        Preview Url : https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
-        album's name : Poodle Hat
-        Artists : "Weird Al" Yankovic
-        Preview Url : https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Beautiful Dreams
-        Artists : Tyler and Mark
-        Preview Url : https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Under the Covers, Vol. 3
-        Artists : Jess and Gabriel
-        Preview Url : https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Punk Goes Pop
-        Artists : Dynamite Boy
+        Song's name : My Head Hurts, My Feet Stink And I Don't Love Jesus
+        album's name : Havana Daydreamin'
+        Artists : Jimmy Buffett
         Preview Url : null
 -------------------------------- 
-        Song's name : I Want It That Way
-        album's name : 90 Sweet 90s Hits!
-        Artists : Backstreet Boys
-        Preview Url : https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : I Want It That Way
-        Artists : Steel Panther
+        Song's name : The Captain And The Kid
+        album's name : Havana Daydreamin'
+        Artists : Jimmy Buffett
         Preview Url : null
--------------------------------- 
-        Song's name : Bye Bye Bye / I Want It That Way (Glee Cast Version)
-        album's name : Bye Bye Bye / I Want It That Way (Glee Cast Version)
-        Artists : Glee Cast
-        Preview Url : https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : NKOTBSB
-        Artists : Backstreet Boys
-        Preview Url : https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Cover Sessions, Vol. 2
-        Artists : Boyce Avenue
-        Preview Url : https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Nu Funk
-        Artists : Scary Pockets, Casey Abrams
-        Preview Url : https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : I Want It That Way
-        Artists : Manuel Costa
-        Preview Url : https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Selfies on Kodachrome
-        Artists : Scott Bradlee's Postmodern Jukebox, Shoshana Bean
-        Preview Url : https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
-        album's name : The Essential "Weird Al" Yankovic
-        Artists : "Weird Al" Yankovic
-        Preview Url : https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : I Want It That Way
-        Artists : Yshop
-        Preview Url : https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Timeless Love
-        Artists : Love Hits On Piano
-        Preview Url : https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way - Reimagined
-        album's name : I Want It That Way (Reimagined)
-        Artists : Backstreet Boys
-        Preview Url : https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : Covers Part IV
-        Artists : Anthem Lights
-        Preview Url : https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=dcdc7ba7d22f4208bb386cd94eb3a820
--------------------------------- 
-        Song's name : I Want It That Way
-        album's name : I Want It That Way
-        Artists : Mick Jensen
-        Preview Url : https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=dcdc7ba7d22f4208bb386cd94eb3a820
 -------------------------------- 
     Movie Title: Titanic
     Year of Release:1997
@@ -344,10 +188,952 @@
     Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
     Actors/Actresses: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
 -------------------------------- 
-        Venue Name: iHeartRadio Music Festival
-        Venue Location: Las Vegas
+        Song's name : Havana (feat. Young Thug)
+        album's name : Camila
+        Artists : Camila Cabello, Young Thug
+        Preview Url : https://p.scdn.co/mp3-preview/663b794c2fc8da8f9bbe33698cb1bac567126a23?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana - Remix
+        album's name : Havana (Remix)
+        Artists : Camila Cabello, Daddy Yankee
+        Preview Url : https://p.scdn.co/mp3-preview/d74caa3e33e24d2ae69a817d9c952038385c1e46?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana
+        album's name : KIDZ BOP 37
+        Artists : Kidz Bop Kids
+        Preview Url : N/A
+-------------------------------- 
+        Song's name : Havana
+        album's name : PTX Presents: Top Pop, Vol. I
+        Artists : Pentatonix
+        Preview Url : https://p.scdn.co/mp3-preview/c80726f8b40418feb5bca6aee452c04de23c1121?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana
+        album's name : Femme fatale
+        Artists : Mary Lou Stephens
+        Preview Url : https://p.scdn.co/mp3-preview/02b72b11fe0d90ead6e04be4c66eba9a4bb2ddc2?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : We Run The Night
+        album's name : We Run The Night
+        Artists : Havana Brown, Pitbull
+        Preview Url : N/A
+-------------------------------- 
+        Song's name : Havana
+        album's name : Spotty Box
+        Artists : Spotty Box
+        Preview Url : https://p.scdn.co/mp3-preview/1b0c97f23f3cd92a89eae17452d538affb06ef02?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Little Havana
+        album's name : From Me 2 U
+        Artists : Nebu Kiniza
+        Preview Url : https://p.scdn.co/mp3-preview/e77958e7670b3567341fb81240c7ddbb98083cac?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana
+        album's name : Havana
+        Artists : Our Last Night
+        Preview Url : https://p.scdn.co/mp3-preview/779a8b560c0bc19d4d4e9d6a38350289b757ed56?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana
+        album's name : KIDZ BOP World Tour
+        Artists : Kidz Bop Kids
+        Preview Url : N/A
+-------------------------------- 
+        Song's name : Piano Concerto No. 21 in C Major, K. 467: II. Andante
+        album's name : Mozart in Havana
+        Artists : Wolfgang Amadeus Mozart, Simone Dinnerstein, José Antonio Méndez Padrón
+        Preview Url : https://p.scdn.co/mp3-preview/beb55a4eb96ea5c3b256de9a4f0bbbc63d06d26a?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana (feat. Young Thug)
+        album's name : New Year's Eve - NYE 2018/2019
+        Artists : Camila Cabello, Young Thug
+        Preview Url : https://p.scdn.co/mp3-preview/1993f479b599d6221181d4d05bf0b5ce655bb7ba?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana
+        album's name : Soft Harp Hits
+        Artists : Lee Hackman
+        Preview Url : https://p.scdn.co/mp3-preview/1eaaccc87ee7abf198f765d72e127578f726d816?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : My Head Hurts, My Feet Stink And I Don't Love Jesus
+        album's name : Havana Daydreamin'
+        Artists : Jimmy Buffett
+        Preview Url : N/A
+-------------------------------- 
+        Song's name : Havana
+        album's name : Havana
+        Artists : Pentatonix
+        Preview Url : https://p.scdn.co/mp3-preview/f26af911295e6f7fe14abdf84f92520a1356a3e1?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : The Captain And The Kid
+        album's name : Havana Daydreamin'
+        Artists : Jimmy Buffett
+        Preview Url : N/A
+-------------------------------- 
+        Song's name : Havana Affair - 2016 Remaster
+        album's name : Ramones - 40th Anniversary Deluxe Edition (Remastered)
+        Artists : Ramones
+        Preview Url : https://p.scdn.co/mp3-preview/115890e20c0ba7bb3baaec3af51eac5350fba130?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana
+        album's name : Mini Pop Kids 15
+        Artists : Mini Pop Kids
+        Preview Url : https://p.scdn.co/mp3-preview/9a58d55a83836d6ed18b3a220be1f4fde3e060ec?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Havana Daydreamin'
+        album's name : Havana Daydreamin'
+        Artists : Jimmy Buffett
+        Preview Url : N/A
+-------------------------------- 
+        Song's name : Havana - Live
+        album's name : Havana (Live)
+        Artists : Camila Cabello
+        Preview Url : https://p.scdn.co/mp3-preview/67099e2d84e803937526789d036e2ab68d443bbe?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Venue Name: Tusndårsskoven
+        Venue Location: Odense
+        Date of the Event: 07-27-2019
+-------------------------------- 
+        Venue Name: Tusndårsskoven Odense V
+        Venue Location: Odense
+        Date of the Event: 07-28-2019
+-------------------------------- 
+        Venue Name: Messegelände
+        Venue Location: Hannover
+        Date of the Event: 08-03-2019
+-------------------------------- 
+        Venue Name: Messegelände
+        Venue Location: Hannover
+        Date of the Event: 08-02-2019
+-------------------------------- 
+        Venue Name: Laugardalsvöllur
+        Venue Location: Reykjavik
+        Date of the Event: 08-11-2019
+-------------------------------- 
+        Venue Name: Laugardalsvöllur
+        Venue Location: Reykjavik
+        Date of the Event: 08-10-2019
+-------------------------------- 
+        Venue Name: Kristiansten Festning
+        Venue Location: Trondheim
+        Date of the Event: 08-30-2019
+-------------------------------- 
+        Venue Name: Neptune Theatre
+        Venue Location: Seattle
+        Date of the Event: 09-17-2019
+-------------------------------- 
+        Venue Name: Wonder Ballroom
+        Venue Location: Portland
+        Date of the Event: 09-18-2019
+-------------------------------- 
+        Venue Name: The Depot
+        Venue Location: Salt Lake City
         Date of the Event: 09-20-2019
+-------------------------------- 
+        Venue Name: Las Vegas Festival Grounds
+        Venue Location: Las Vegas
+        Date of the Event: 09-21-2019
+-------------------------------- 
+        Venue Name: Gothic Theatre
+        Venue Location: Englewood
+        Date of the Event: 09-24-2019
+-------------------------------- 
+        Venue Name: House of Blues Dallas
+        Venue Location: Dallas
+        Date of the Event: 09-26-2019
+-------------------------------- 
+        Venue Name: White Oak Music Hall
+        Venue Location: Houston
+        Date of the Event: 09-28-2019
+-------------------------------- 
+        Venue Name: The Ritz Ybor
+        Venue Location: Tampa
+        Date of the Event: 09-30-2019
+-------------------------------- 
+        Venue Name: House of Blues Orlando
+        Venue Location: Lake Buena Vista
+        Date of the Event: 10-01-2019
+-------------------------------- 
+        Venue Name: Buckhead Theatre
+        Venue Location: Atlanta
+        Date of the Event: 10-03-2019
+-------------------------------- 
+        Venue Name: Stavangeren
+        Venue Location: Stavanger
+        Date of the Event: 08-24-2019
+-------------------------------- 
+        Venue Name: Way Out West 2019
+        Venue Location: Gothenburg
+        Date of the Event: 08-08-2019
+-------------------------------- 
+        Venue Name: Stavanger Konserthus
+        Venue Location: Stavanger
+        Date of the Event: 08-23-2019
 -------------------------------- 
         Venue Name: iHeartRadio Music Festival
         Venue Location: Las Vegas
         Date of the Event: 09-20-2019
+-------------------------------- 
+        Song's name : Ruin My Life
+        album's name : Ruin My Life
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/ecf6c9e17477f5d2a03c78626694fdbc95170d01?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Symphony (feat. Zara Larsson)
+        album's name : Symphony (feat. Zara Larsson)
+        Artists : Clean Bandit, Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/45e100c336ff5ebbc5bdbae4224f25aa08fa9ca2?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Never Forget You
+        album's name : So Good
+        Artists : Zara Larsson, MNEK
+        Preview Url : https://p.scdn.co/mp3-preview/0ce1f42d1a988c629df6fcaca5d3db5742b98f9e?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : All the Time
+        album's name : All the Time
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/fde456efc591a3b261dd719e402fc88667567305?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Lush Life
+        album's name : So Good
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/10dae37faa43cd82a3c232eb4d98139d7f0593f9?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Symphony (feat. Zara Larsson)
+        album's name : What Is Love? (Deluxe Edition)
+        Artists : Clean Bandit, Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/25afd2d1ae43f4e90083b921d02ea793b4966518?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Can't Fall in Love Without You
+        album's name : So Good
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/6928c375713c1c6db8b5b365d2c5f603a8affed4?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : WOW
+        album's name : WOW
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/e2f86ae64f33a1519c1e69e1f20fb69d10d5d12c?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Don't Worry Bout Me
+        album's name : Don't Worry Bout Me
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/fcaadeeee6631767fbd40f963618bc4a15c8114c?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : A Brand New Day (BTS World Original Soundtrack) [Pt. 2]
+        album's name : A Brand New Day (BTS World Original Soundtrack) [Pt. 2]
+        Artists : BTS, Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/1e657a39a76a1a270fbe8b8ad6b4bd2f15b5d18d?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Ain't My Fault
+        album's name : So Good
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/20a2b8cc9b444e7244ff5d6d379220e281bb4732?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Now You're Gone (feat. Zara Larsson)
+        album's name : What a Time To Be Alive
+        Artists : Tom Walker, Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/06a54e52b43e20e7fd919e64f17adcf02a5dc0b3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Girls Like (feat. Zara Larsson)
+        album's name : Girls Like (feat. Zara Larsson)
+        Artists : Tinie Tempah, Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/e5836bb8f9e3ce72aa0e71716ee9cda438d7dbd7?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Don't Worry Bout Me - Rudimental Remix
+        album's name : Don't Worry Bout Me (Rudimental Remix)
+        Artists : Zara Larsson, Rudimental
+        Preview Url : https://p.scdn.co/mp3-preview/b5855e79d8f5da35bc9638b92f85d882d02e06a1?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : All the Time - Don Diablo Remix
+        album's name : All the Time (Don Diablo Remix)
+        Artists : Zara Larsson, Don Diablo
+        Preview Url : https://p.scdn.co/mp3-preview/561332cbe1dc118decfe60529e5e24bf78350abb?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Ain't My Fault - R3hab Remix
+        album's name : Ain't My Fault (R3hab Remix)
+        Artists : Zara Larsson, R3HAB
+        Preview Url : https://p.scdn.co/mp3-preview/dbc4bdbdd2f66f75f942100a44edf95e13de0646?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Now You're Gone (feat. Zara Larsson) - Radio Edit
+        album's name : Now You're Gone (feat. Zara Larsson) [Radio Edit]
+        Artists : Tom Walker, Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/ea56078ee98b7872fb4230816dc560ef3ba9c0e6?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Would Like
+        album's name : So Good
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/f62a065fed90eabb458935f816cdad27aa010d33?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016)
+        album's name : This One's for You (feat. Zara Larsson) [Official Song UEFA EURO 2016]
+        Artists : David Guetta, Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/c07459dbe8805ee4c1d9984b9fce8e7c92fbc677?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Uncover
+        album's name : Uncover
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/1ee901eae93c71f55bcdcd7ebdac8c203239d305?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : The Sign
+        album's name : The Sign (US Album) [Remastered]
+        Artists : Ace of Base
+        Preview Url : https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : All That She Wants
+        album's name : The Sign (US Album) [Remastered]
+        Artists : Ace of Base
+        Preview Url : https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Ruin My Life
+        album's name : Ruin My Life
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/ecf6c9e17477f5d2a03c78626694fdbc95170d01?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Symphony (feat. Zara Larsson)
+        album's name : Symphony (feat. Zara Larsson)
+        Artists : Clean Bandit, Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/45e100c336ff5ebbc5bdbae4224f25aa08fa9ca2?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Symphony (feat. Zara Larsson)
+        album's name : What Is Love? (Deluxe Edition)
+        Artists : Clean Bandit, Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/25afd2d1ae43f4e90083b921d02ea793b4966518?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Can't Fall in Love Without You
+        album's name : So Good
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/6928c375713c1c6db8b5b365d2c5f603a8affed4?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : WOW
+        album's name : WOW
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/e2f86ae64f33a1519c1e69e1f20fb69d10d5d12c?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Don't Worry Bout Me
+        album's name : Don't Worry Bout Me
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/fcaadeeee6631767fbd40f963618bc4a15c8114c?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : A Brand New Day (BTS World Original Soundtrack) [Pt. 2]
+        album's name : A Brand New Day (BTS World Original Soundtrack) [Pt. 2]
+        Artists : BTS, Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/1e657a39a76a1a270fbe8b8ad6b4bd2f15b5d18d?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Ain't My Fault
+        album's name : So Good
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/20a2b8cc9b444e7244ff5d6d379220e281bb4732?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Now You're Gone (feat. Zara Larsson)
+        album's name : What a Time To Be Alive
+        Artists : Tom Walker, Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/06a54e52b43e20e7fd919e64f17adcf02a5dc0b3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Girls Like (feat. Zara Larsson)
+        album's name : Girls Like (feat. Zara Larsson)
+        Artists : Tinie Tempah, Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/e5836bb8f9e3ce72aa0e71716ee9cda438d7dbd7?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Don't Worry Bout Me - Rudimental Remix
+        album's name : Don't Worry Bout Me (Rudimental Remix)
+        Artists : Zara Larsson, Rudimental
+        Preview Url : https://p.scdn.co/mp3-preview/b5855e79d8f5da35bc9638b92f85d882d02e06a1?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : All the Time - Don Diablo Remix
+        album's name : All the Time (Don Diablo Remix)
+        Artists : Zara Larsson, Don Diablo
+        Preview Url : https://p.scdn.co/mp3-preview/561332cbe1dc118decfe60529e5e24bf78350abb?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Ain't My Fault - R3hab Remix
+        album's name : Ain't My Fault (R3hab Remix)
+        Artists : Zara Larsson, R3HAB
+        Preview Url : https://p.scdn.co/mp3-preview/dbc4bdbdd2f66f75f942100a44edf95e13de0646?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Now You're Gone (feat. Zara Larsson) - Radio Edit
+        album's name : Now You're Gone (feat. Zara Larsson) [Radio Edit]
+        Artists : Tom Walker, Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/ea56078ee98b7872fb4230816dc560ef3ba9c0e6?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Would Like
+        album's name : So Good
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/f62a065fed90eabb458935f816cdad27aa010d33?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016)
+        album's name : This One's for You (feat. Zara Larsson) [Official Song UEFA EURO 2016]
+        Artists : David Guetta, Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/c07459dbe8805ee4c1d9984b9fce8e7c92fbc677?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Uncover
+        album's name : Uncover
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/1ee901eae93c71f55bcdcd7ebdac8c203239d305?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Never Forget You
+        album's name : So Good
+        Artists : Zara Larsson, MNEK
+        Preview Url : https://p.scdn.co/mp3-preview/0ce1f42d1a988c629df6fcaca5d3db5742b98f9e?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : All the Time
+        album's name : All the Time
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/fde456efc591a3b261dd719e402fc88667567305?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Lush Life
+        album's name : So Good
+        Artists : Zara Larsson
+        Preview Url : https://p.scdn.co/mp3-preview/10dae37faa43cd82a3c232eb4d98139d7f0593f9?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : The Hits--Chapter One
+        Artists : Backstreet Boys
+        Preview Url : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Millennium
+        Artists : Backstreet Boys
+        Preview Url : https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : I Want It That Way
+        Artists : Mick Jensen
+        Preview Url : https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Covers Part IV
+        Artists : Anthem Lights
+        Preview Url : https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way - Reimagined
+        album's name : I Want It That Way (Reimagined)
+        Artists : Backstreet Boys
+        Preview Url : https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+        album's name : Poodle Hat
+        Artists : "Weird Al" Yankovic
+        Preview Url : https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Beautiful Dreams
+        Artists : Tyler and Mark
+        Preview Url : https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Under the Covers, Vol. 3
+        Artists : Jess and Gabriel
+        Preview Url : https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Punk Goes Pop
+        Artists : Dynamite Boy
+        Preview Url : N/A
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : 90 Sweet 90s Hits!
+        Artists : Backstreet Boys
+        Preview Url : https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : I Want It That Way
+        Artists : Steel Panther
+        Preview Url : N/A
+-------------------------------- 
+        Song's name : Bye Bye Bye / I Want It That Way (Glee Cast Version)
+        album's name : Bye Bye Bye / I Want It That Way (Glee Cast Version)
+        Artists : Glee Cast
+        Preview Url : https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : NKOTBSB
+        Artists : Backstreet Boys
+        Preview Url : https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Cover Sessions, Vol. 2
+        Artists : Boyce Avenue
+        Preview Url : https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Nu Funk
+        Artists : Scary Pockets, Casey Abrams
+        Preview Url : https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : I Want It That Way
+        Artists : Manuel Costa
+        Preview Url : https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Selfies on Kodachrome
+        Artists : Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+        Preview Url : https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+        album's name : The Essential "Weird Al" Yankovic
+        Artists : "Weird Al" Yankovic
+        Preview Url : https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : I Want It That Way
+        Artists : Yshop
+        Preview Url : https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Timeless Love
+        Artists : Love Hits On Piano
+        Preview Url : https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Venue Name: Tusndårsskoven
+        Venue Location: Odense
+        Date of the Event: 07-27-2019
+-------------------------------- 
+        Venue Name: Tusndårsskoven Odense V
+        Venue Location: Odense
+        Date of the Event: 07-28-2019
+-------------------------------- 
+        Venue Name: Messegelände
+        Venue Location: Hannover
+        Date of the Event: 08-02-2019
+-------------------------------- 
+        Venue Name: Messegelände
+        Venue Location: Hannover
+        Date of the Event: 08-03-2019
+-------------------------------- 
+        Venue Name: Way Out West 2019
+        Venue Location: Gothenburg
+        Date of the Event: 08-08-2019
+-------------------------------- 
+        Venue Name: Laugardalsvöllur
+        Venue Location: Reykjavik
+        Date of the Event: 08-10-2019
+-------------------------------- 
+        Venue Name: Laugardalsvöllur
+        Venue Location: Reykjavik
+        Date of the Event: 08-11-2019
+-------------------------------- 
+        Venue Name: Stavanger Konserthus
+        Venue Location: Stavanger
+        Date of the Event: 08-23-2019
+-------------------------------- 
+        Venue Name: Stavangeren
+        Venue Location: Stavanger
+        Date of the Event: 08-24-2019
+-------------------------------- 
+        Venue Name: Kristiansten Festning
+        Venue Location: Trondheim
+        Date of the Event: 08-30-2019
+-------------------------------- 
+        Venue Name: Wonder Ballroom
+        Venue Location: Portland
+        Date of the Event: 09-18-2019
+-------------------------------- 
+        Venue Name: The Depot
+        Venue Location: Salt Lake City
+        Date of the Event: 09-20-2019
+-------------------------------- 
+        Venue Name: Las Vegas Festival Grounds
+        Venue Location: Las Vegas
+        Date of the Event: 09-21-2019
+-------------------------------- 
+        Venue Name: Gothic Theatre
+        Venue Location: Englewood
+        Date of the Event: 09-24-2019
+-------------------------------- 
+        Venue Name: House of Blues Dallas
+        Venue Location: Dallas
+        Date of the Event: 09-26-2019
+-------------------------------- 
+        Venue Name: White Oak Music Hall
+        Venue Location: Houston
+        Date of the Event: 09-28-2019
+-------------------------------- 
+        Venue Name: The Ritz Ybor
+        Venue Location: Tampa
+        Date of the Event: 09-30-2019
+-------------------------------- 
+        Venue Name: House of Blues Orlando
+        Venue Location: Lake Buena Vista
+        Date of the Event: 10-01-2019
+-------------------------------- 
+        Venue Name: Buckhead Theatre
+        Venue Location: Atlanta
+        Date of the Event: 10-03-2019
+-------------------------------- 
+        Venue Name: Neptune Theatre
+        Venue Location: Seattle
+        Date of the Event: 09-17-2019
+-------------------------------- 
+        Venue Name: Tusndårsskoven
+        Venue Location: Odense
+        Date of the Event: 07-27-2019
+-------------------------------- 
+        Venue Name: Messegelände
+        Venue Location: Hannover
+        Date of the Event: 08-02-2019
+-------------------------------- 
+        Venue Name: Tusndårsskoven Odense V
+        Venue Location: Odense
+        Date of the Event: 07-28-2019
+-------------------------------- 
+        Venue Name: Laugardalsvöllur
+        Venue Location: Reykjavik
+        Date of the Event: 08-10-2019
+-------------------------------- 
+        Venue Name: Way Out West 2019
+        Venue Location: Gothenburg
+        Date of the Event: 08-08-2019
+-------------------------------- 
+        Venue Name: Messegelände
+        Venue Location: Hannover
+        Date of the Event: 08-03-2019
+-------------------------------- 
+        Venue Name: Laugardalsvöllur
+        Venue Location: Reykjavik
+        Date of the Event: 08-11-2019
+-------------------------------- 
+        Venue Name: Stavanger Konserthus
+        Venue Location: Stavanger
+        Date of the Event: 08-23-2019
+-------------------------------- 
+        Venue Name: Stavangeren
+        Venue Location: Stavanger
+        Date of the Event: 08-24-2019
+-------------------------------- 
+        Venue Name: Kristiansten Festning
+        Venue Location: Trondheim
+        Date of the Event: 08-30-2019
+-------------------------------- 
+        Venue Name: Wonder Ballroom
+        Venue Location: Portland
+        Date of the Event: 09-18-2019
+-------------------------------- 
+        Venue Name: Neptune Theatre
+        Venue Location: Seattle
+        Date of the Event: 09-17-2019
+-------------------------------- 
+        Venue Name: Gothic Theatre
+        Venue Location: Englewood
+        Date of the Event: 09-24-2019
+-------------------------------- 
+        Venue Name: Las Vegas Festival Grounds
+        Venue Location: Las Vegas
+        Date of the Event: 09-21-2019
+-------------------------------- 
+        Venue Name: The Ritz Ybor
+        Venue Location: Tampa
+        Date of the Event: 09-30-2019
+-------------------------------- 
+        Venue Name: House of Blues Orlando
+        Venue Location: Lake Buena Vista
+        Date of the Event: 10-01-2019
+-------------------------------- 
+        Venue Name: Buckhead Theatre
+        Venue Location: Atlanta
+        Date of the Event: 10-03-2019
+-------------------------------- 
+        Venue Name: The Depot
+        Venue Location: Salt Lake City
+        Date of the Event: 09-20-2019
+-------------------------------- 
+        Venue Name: House of Blues Dallas
+        Venue Location: Dallas
+        Date of the Event: 09-26-2019
+-------------------------------- 
+        Venue Name: White Oak Music Hall
+        Venue Location: Houston
+        Date of the Event: 09-28-2019
+-------------------------------- 
+    Movie Title: Catch Me If You Can
+    Year of Release:2002
+    IMDB Rating: 8.1
+    Rotten Tomatoes Rating : 95%
+    Country Produced: USA, Canada
+    Language: English, French
+    Plot: A seasoned FBI agent pursues Frank Abagnale Jr. who, before his 19th birthday, successfully forged millions of dollars' worth of checks while posing as a Pan Am pilot, a doctor, and a legal prosecutor.
+    Actors/Actresses: Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen
+-------------------------------- 
+    Movie Title: Mr. Nobody
+    Year of Release:2009
+    IMDB Rating: 7.8
+    Rotten Tomatoes Rating : 67%
+    Country Produced: Belgium, Germany, Canada, France, USA, UK
+    Language: English, Mohawk
+    Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+    Actors/Actresses: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+-------------------------------- 
+    Movie Title: Titanic
+    Year of Release:1997
+    IMDB Rating: 7.8
+    Rotten Tomatoes Rating : 89%
+    Country Produced: USA
+    Language: English, Swedish, Italian
+    Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+    Actors/Actresses: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : The Hits--Chapter One
+        Artists : Backstreet Boys
+        Preview Url : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Millennium
+        Artists : Backstreet Boys
+        Preview Url : https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : I Want It That Way
+        Artists : Mick Jensen
+        Preview Url : https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Covers Part IV
+        Artists : Anthem Lights
+        Preview Url : https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way - Reimagined
+        album's name : I Want It That Way (Reimagined)
+        Artists : Backstreet Boys
+        Preview Url : https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+        album's name : Poodle Hat
+        Artists : "Weird Al" Yankovic
+        Preview Url : https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Beautiful Dreams
+        Artists : Tyler and Mark
+        Preview Url : https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Under the Covers, Vol. 3
+        Artists : Jess and Gabriel
+        Preview Url : https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Punk Goes Pop
+        Artists : Dynamite Boy
+        Preview Url : N/A
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : 90 Sweet 90s Hits!
+        Artists : Backstreet Boys
+        Preview Url : https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : I Want It That Way
+        Artists : Steel Panther
+        Preview Url : N/A
+-------------------------------- 
+        Song's name : Bye Bye Bye / I Want It That Way (Glee Cast Version)
+        album's name : Bye Bye Bye / I Want It That Way (Glee Cast Version)
+        Artists : Glee Cast
+        Preview Url : https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : NKOTBSB
+        Artists : Backstreet Boys
+        Preview Url : https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Nu Funk
+        Artists : Scary Pockets, Casey Abrams
+        Preview Url : https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Selfies on Kodachrome
+        Artists : Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+        Preview Url : https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+        album's name : The Essential "Weird Al" Yankovic
+        Artists : "Weird Al" Yankovic
+        Preview Url : https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : I Want It That Way
+        Artists : Yshop
+        Preview Url : https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Timeless Love
+        Artists : Love Hits On Piano
+        Preview Url : https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : I Want It That Way
+        Artists : Manuel Costa
+        Preview Url : https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Song's name : I Want It That Way
+        album's name : Cover Sessions, Vol. 2
+        Artists : Boyce Avenue
+        Preview Url : https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=dcdc7ba7d22f4208bb386cd94eb3a820
+-------------------------------- 
+        Venue Name: Tusndårsskoven
+        Venue Location: Odense
+        Date of the Event: 07-27-2019
+-------------------------------- 
+        Venue Name: Tusndårsskoven Odense V
+        Venue Location: Odense
+        Date of the Event: 07-28-2019
+-------------------------------- 
+        Venue Name: Messegelände
+        Venue Location: Hannover
+        Date of the Event: 08-02-2019
+-------------------------------- 
+        Venue Name: Way Out West 2019
+        Venue Location: Gothenburg
+        Date of the Event: 08-08-2019
+-------------------------------- 
+        Venue Name: Laugardalsvöllur
+        Venue Location: Reykjavik
+        Date of the Event: 08-10-2019
+-------------------------------- 
+        Venue Name: Laugardalsvöllur
+        Venue Location: Reykjavik
+        Date of the Event: 08-11-2019
+-------------------------------- 
+        Venue Name: Stavanger Konserthus
+        Venue Location: Stavanger
+        Date of the Event: 08-23-2019
+-------------------------------- 
+        Venue Name: Stavangeren
+        Venue Location: Stavanger
+        Date of the Event: 08-24-2019
+-------------------------------- 
+        Venue Name: Kristiansten Festning
+        Venue Location: Trondheim
+        Date of the Event: 08-30-2019
+-------------------------------- 
+        Venue Name: Neptune Theatre
+        Venue Location: Seattle
+        Date of the Event: 09-17-2019
+-------------------------------- 
+        Venue Name: Wonder Ballroom
+        Venue Location: Portland
+        Date of the Event: 09-18-2019
+-------------------------------- 
+        Venue Name: The Depot
+        Venue Location: Salt Lake City
+        Date of the Event: 09-20-2019
+-------------------------------- 
+        Venue Name: Las Vegas Festival Grounds
+        Venue Location: Las Vegas
+        Date of the Event: 09-21-2019
+-------------------------------- 
+        Venue Name: Gothic Theatre
+        Venue Location: Englewood
+        Date of the Event: 09-24-2019
+-------------------------------- 
+        Venue Name: House of Blues Dallas
+        Venue Location: Dallas
+        Date of the Event: 09-26-2019
+-------------------------------- 
+        Venue Name: White Oak Music Hall
+        Venue Location: Houston
+        Date of the Event: 09-28-2019
+-------------------------------- 
+        Venue Name: The Ritz Ybor
+        Venue Location: Tampa
+        Date of the Event: 09-30-2019
+-------------------------------- 
+        Venue Name: House of Blues Orlando
+        Venue Location: Lake Buena Vista
+        Date of the Event: 10-01-2019
+-------------------------------- 
+        Venue Name: Buckhead Theatre
+        Venue Location: Atlanta
+        Date of the Event: 10-03-2019
+-------------------------------- 
+        Venue Name: Messegelände
+        Venue Location: Hannover
+        Date of the Event: 08-03-2019
+-------------------------------- 
+    Movie Title: Catch Me If You Can
+    Year of Release:2002
+    IMDB Rating: 8.1
+    Rotten Tomatoes Rating : 95%
+    Country Produced: USA, Canada
+    Language: English, French
+    Plot: A seasoned FBI agent pursues Frank Abagnale Jr. who, before his 19th birthday, successfully forged millions of dollars' worth of checks while posing as a Pan Am pilot, a doctor, and a legal prosecutor.
+    Actors/Actresses: Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen
+-------------------------------- 
+        Venue Name: Tusndårsskoven
+        Venue Location: Odense
+        Date of the Event: 07-27-2019
+-------------------------------- 
+        Venue Name: Tusndårsskoven Odense V
+        Venue Location: Odense
+        Date of the Event: 07-28-2019
+-------------------------------- 
+        Venue Name: Way Out West 2019
+        Venue Location: Gothenburg
+        Date of the Event: 08-08-2019
+-------------------------------- 
+        Venue Name: Laugardalsvöllur
+        Venue Location: Reykjavik
+        Date of the Event: 08-11-2019
+-------------------------------- 
+        Venue Name: Stavanger Konserthus
+        Venue Location: Stavanger
+        Date of the Event: 08-23-2019
+-------------------------------- 
+        Venue Name: Stavangeren
+        Venue Location: Stavanger
+        Date of the Event: 08-24-2019
+-------------------------------- 
+        Venue Name: Kristiansten Festning
+        Venue Location: Trondheim
+        Date of the Event: 08-30-2019
+-------------------------------- 
+        Venue Name: Neptune Theatre
+        Venue Location: Seattle
+        Date of the Event: 09-17-2019
+-------------------------------- 
+        Venue Name: Wonder Ballroom
+        Venue Location: Portland
+        Date of the Event: 09-18-2019
+-------------------------------- 
+        Venue Name: The Depot
+        Venue Location: Salt Lake City
+        Date of the Event: 09-20-2019
+-------------------------------- 
+        Venue Name: Las Vegas Festival Grounds
+        Venue Location: Las Vegas
+        Date of the Event: 09-21-2019
+-------------------------------- 
+        Venue Name: Gothic Theatre
+        Venue Location: Englewood
+        Date of the Event: 09-24-2019
+-------------------------------- 
+        Venue Name: House of Blues Dallas
+        Venue Location: Dallas
+        Date of the Event: 09-26-2019
+-------------------------------- 
+        Venue Name: White Oak Music Hall
+        Venue Location: Houston
+        Date of the Event: 09-28-2019
+-------------------------------- 
+        Venue Name: The Ritz Ybor
+        Venue Location: Tampa
+        Date of the Event: 09-30-2019
+-------------------------------- 
+        Venue Name: House of Blues Orlando
+        Venue Location: Lake Buena Vista
+        Date of the Event: 10-01-2019
+-------------------------------- 
+        Venue Name: Buckhead Theatre
+        Venue Location: Atlanta
+        Date of the Event: 10-03-2019
+-------------------------------- 
+        Venue Name: Laugardalsvöllur
+        Venue Location: Reykjavik
+        Date of the Event: 08-10-2019
+-------------------------------- 
+        Venue Name: Messegelände
+        Venue Location: Hannover
+        Date of the Event: 08-03-2019
+-------------------------------- 
+        Venue Name: Messegelände
+        Venue Location: Hannover
+        Date of the Event: 08-02-2019

@@ -8,7 +8,6 @@ const fs = require('fs');
 let spotify = new Spotify(keys.spotify);
 const [node, js, type, ...arr] = process.argv;
 let input = arr.join(' ');
-
 switch(type) {
   case("concert-this"):
     gettingConcert(input);
@@ -20,10 +19,7 @@ switch(type) {
     gettingMovie(input);
     break;
   case("do-what-it-says"):
-      
-    break;
-  default: 
-    showResultWithRandomInput();
+    showResultWithRandomInput(); 
     break;
 };
 
@@ -80,7 +76,7 @@ function gettingSong(input) {
         Song's name : ${name}
         album's name : ${albumName}
         Artists : ${artists.map(artist => artist.name).join(', ')}
-        Preview Url : ${preview_url}`;
+        Preview Url : ${(preview_url) ? preview_url: "N/A"}`;
         console.log(songResult)
         storingOutputData(songResult);
       });
@@ -134,7 +130,7 @@ function showResultWithRandomInput() {
     let inputObject = inputArr.filter(input => inputArr.indexOf(input) % 2 === 0);
     let values = inputArr.filter(input => inputArr.indexOf(input) % 2 === 1);
     
-    inputObject = inputObject.map(x=> ({type: x,name: values[inputObject.indexOf(x)]}));
+    inputObject = inputObject.map(x=> ({randomType: x,randomName: values[inputObject.indexOf(x)]}));
     let randomNum = Math.floor(Math.random() * 3);
     let currentRandomInput = inputObject[randomNum];
     const {randomType , randomName} = currentRandomInput;
