@@ -8,8 +8,9 @@ const fs = require('fs');
 let spotify = new Spotify(keys.spotify);
 const [node, js, type, ...arr] = process.argv;
 let input = arr.join(' ');
+
 switch(type) {
-  case("concert-this"): 
+  case("concert-this"):
     gettingConcert(input);
     break;
   case("spotify-this-song"):
@@ -17,30 +18,28 @@ switch(type) {
     break;
   case("movie-this"):
     gettingMovie(input);
-  break;
+    break;
   case("do-what-it-says"):
-    
-  break;
+      
+    break;
   default: 
-    // gettingRandom();
-  break;
-}
+    showResultWithRandomInput();
+    break;
+};
 
 function gettingConcert(input) {
   axios.get("https://rest.bandsintown.com/artists/" + input + "/events?app_id=codingbootcamp")
   .then(function(response) {    
-    
-      for (var i = 0; i < response.data.length; i++) {
-
-          var datetime = response.data[i].datetime; //Saves datetime response into a variable
-          var dateArr = datetime.split('T'); //Attempting to split the date and time in the response
-          var concertResults = 
-              "--------------------------------------------------------------------" +
-                  "\nVenue Name: " + response.data[i].venue.name + 
-                  "\nVenue Location: " + response.data[i].venue.city +
-                  "\nDate of the Event: " + moment(dateArr[0], "YYYY-MM-DD").format("MM-DD-YYYY"); //dateArr[0] should be the date separated from the time
-          console.log(concertResults);
-      }
+      response.data.map(data => {
+        let datetime = data.datetime;
+        let dateArr = datetime.split('T');
+        var concertResults = `-------------------------------- 
+        Venue Name: ${data.venue.name}
+        Venue Location: ${data.venue.city}
+        Date of the Event: ${moment(dateArr[0], "YYYY-MM-DD").format("MM-DD-YYYY")}`;
+        console.log(concertResults);
+        storingOutputData(concertResults);
+      });          
   })
   .catch(function (error) {
       console.log(error);
@@ -109,7 +108,7 @@ function gettingMovie(input) {
     } else {
       rottenTomatoesRating = "N/A";
     }
-    var movieResults = `-----------------------
+    var movieResults = `-------------------------------- 
     Movie Title: ${Title}
     Year of Release:${Year}
     IMDB Rating: ${imdbRating}
@@ -126,7 +125,7 @@ function gettingMovie(input) {
   });
 }
 
-function gettingInputFromRandomtxt() {
+function showResultWithRandomInput() {
   fs.readFile('random.txt', "utf8",function(err, res) {
     if(err) {
       return console.log(err);
@@ -135,10 +134,23 @@ function gettingInputFromRandomtxt() {
     let inputObject = inputArr.filter(input => inputArr.indexOf(input) % 2 === 0);
     let values = inputArr.filter(input => inputArr.indexOf(input) % 2 === 1);
     
-    return inputObject.map(x=> ({type: x,name: values[inputObject.indexOf(x)]}));
+    inputObject = inputObject.map(x=> ({type: x,name: values[inputObject.indexOf(x)]}));
+    let randomNum = Math.floor(Math.random() * 3);
+    let currentRandomInput = inputObject[randomNum];
+    const {randomType , randomName} = currentRandomInput;
+    switch(randomType) {
+      case("concert-this"): 
+      gettingConcert(randomName);
+      break;
+    case("spotify-this-song"):
+      gettingSong(randomName);
+      break;
+    case("movie-this"):
+      gettingMovie(randomName);
+      break;
+    }
   });
 }
-
 
 function storingOutputData(data) {
     fs.appendFile('log.txt', data + '\n', function (err) {
